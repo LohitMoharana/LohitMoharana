@@ -1,5 +1,4 @@
 # Lohit Moharana
-おたくの空間。
 
 Electronics and Communication Engineering undergraduate based in Bhubaneswar, India. I work on edge-AI and neuromorphic computing — bridging machine learning models with the hardware constraints they'll eventually run on.
 
@@ -16,8 +15,8 @@ Currently exploring **Spiking Neural Networks (SNNs)** and **Hyperdimensional Co
 - **Applied ML Engineering:** iterative model debugging, dataset curation, honest evaluation practices
 
 ### 📌 Featured projects
-- **[NeuroHDC](#)** — Spiking-HDC framework for edge ECG classification; benchmarked against CNN/LSTM baselines across MIT-BIH, PTB, and STT datasets, with a documented data-leakage finding in standard CNN evaluation protocols.
-- **[DeepOcean-AI](#)** — Underwater object detection and tracking (YOLOv8 + BoT-SORT), built through iterative real-world failure analysis rather than a single training run — documented false starts included.
+- **[NeuroHDC](https://github.com/LohitMoharana/NeuroHDC)** — Spiking-HDC framework for edge ECG classification; benchmarked against CNN/LSTM baselines across MIT-BIH, PTB, and STT datasets, with a documented data-leakage finding in standard CNN evaluation protocols.
+- **[DeepOcean-AI](https://github.com/LohitMoharana/DeepOcean-AI)** — Underwater object detection and tracking (YOLOv8 + BoT-SORT), built through iterative real-world failure analysis rather than a single training run — documented false starts included.
 
 ---
 
