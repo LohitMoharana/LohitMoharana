@@ -8,7 +8,7 @@ Currently exploring **Spiking Neural Networks (SNNs)** and **Hyperdimensional Co
 ---
 
 ### 🔭 Currently working on
-- **DeepOcean-SNN** — converting a trained YOLOv8 detector into a spike-driven architecture for low-power inference, following recent work like SpikeYOLO (ECCV 2024) rather than naive post-hoc conversion.
+- **MarineSpike** — converting a trained YOLOv8 detector into a spike-driven architecture for low-power inference, following recent work like SpikeYOLO (ECCV 2024) rather than naive post-hoc conversion.
 
 ### 🧠 Focus areas
 - **Neuromorphic ML:** Spiking Neural Networks, Hyperdimensional Computing, ANN-to-SNN conversion
