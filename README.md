@@ -1,11 +1,23 @@
 # Lohit Moharana
+おたくの空間。
 
-I am an Electronics and Communication Engineering undergraduate based in Bhubaneswar. My work focuses on hardware architecture, neuromorphic engineering, and machine intelligence.
+Electronics and Communication Engineering undergraduate based in Bhubaneswar, India. I work on edge-AI and neuromorphic computing — bridging machine learning models with the hardware constraints they'll eventually run on.
 
-### Core Focus
-*   **Neuromorphic Engineering:** Spiking Neural Networks (SNNs), VLSI architecture, and discrete hardware-level prototyping.
-*   **Computer Vision:** Autonomous detection pipelines, custom YOLO frameworks, and physics-based synthetic data integration.
-*   **Systems AI:** Linux environments (Debian/Wayland), custom desktop scripting, and AI-native operating system architectures.
+Currently exploring **Spiking Neural Networks (SNNs)** and **Hyperdimensional Computing (HDC)** as low-power alternatives to conventional deep learning, with a focus on real-world, resource-constrained deployment (biomedical signals, edge vision).
+
+---
+
+### 🔭 Currently working on
+- **DeepOcean-SNN** — converting a trained YOLOv8 detector into a spike-driven architecture for low-power inference, following recent work like SpikeYOLO (ECCV 2024) rather than naive post-hoc conversion.
+
+### 🧠 Focus areas
+- **Neuromorphic ML:** Spiking Neural Networks, Hyperdimensional Computing, ANN-to-SNN conversion
+- **Computer Vision:** object detection pipelines, synthetic data generation, multi-object tracking
+- **Applied ML Engineering:** iterative model debugging, dataset curation, honest evaluation practices
+
+### 📌 Featured projects
+- **[NeuroHDC](#)** — Spiking-HDC framework for edge ECG classification; benchmarked against CNN/LSTM baselines across MIT-BIH, PTB, and STT datasets, with a documented data-leakage finding in standard CNN evaluation protocols.
+- **[DeepOcean-AI](#)** — Underwater object detection and tracking (YOLOv8 + BoT-SORT), built through iterative real-world failure analysis rather than a single training run — documented false starts included.
 
 ---
 
