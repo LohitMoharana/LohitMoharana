@@ -21,5 +21,5 @@ Currently exploring **Spiking Neural Networks (SNNs)** and **Hyperdimensional Co
 ---
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/LohitMoharana/LohitMoharana/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff00ff" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/LohitMoharana/LohitMoharana/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
